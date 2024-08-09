@@ -3,7 +3,7 @@ let accountEmail = "lakshyamittal23503"
 var accountPassword = "12345"
 accountCity = "Hyderabad"
 
-let accontState;oiuhpoh
+let accontState;
 /*
 prefer not to use "var"
 because of issue in block scope and functional scope
