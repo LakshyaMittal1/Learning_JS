@@ -43,6 +43,8 @@
 // console.log(1 + 2 + "2")
 // console.log(1 + "3" + 2 + 2)
 
+// Note :- after a stirng, everthing is treated as string..!!
+
 // console.log(+true) // 1
 // console.log(+"") // 0
 
@@ -52,6 +54,6 @@ num1 = num2 = num3 = 2+2
 console.log(num1, num2, num3)
 
 let gameCounter = 100
-gameCounter++
-++gameCounter
+gameCounter++ // postfix incremental operator
+++gameCounter // prefix incremental operator
 console.log(gameCounter)
