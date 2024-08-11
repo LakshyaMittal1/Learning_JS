@@ -10,14 +10,19 @@ console.log(valueNumber)
 // "33abc" => NaN
 // true => 1; false => 0
 
-let isLoggedIn = 0
+let isLoggedIn = "lakshya"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 console.log(booleanIsLoggedIn);
 
+let num = 33
+let stringNum = String(num)
+console.log(stringNum);
+console.log(typeof stringNum);
 
 
+// --------------------------------------------------------
 
 
 
